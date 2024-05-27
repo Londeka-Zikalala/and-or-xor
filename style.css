@@ -1,0 +1,16 @@
+*{
+    display: border-box;}
+    
+    .image{
+        margin-left: auto;
+        margin-right: auto;
+        padding-left:auto ;
+        padding-right: auto;
+        padding-bottom: auto;
+        padding-top: auto
+    }
+
+    h1{
+        color:antiquewhite;
+        text-align: center;
+    }
